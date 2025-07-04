@@ -1,0 +1,20 @@
+2025-07-05 03:29:18,804:INFO:Fetched 7389 earthquake records from USGS API.
+2025-07-05 03:29:18,884:INFO:Earthquake data saved to data\earthquake_data.csv
+2025-07-05 03:29:18,897:INFO:Advanced features extracted
+2025-07-05 03:29:18,905:INFO:Data preprocessing completed
+2025-07-05 03:29:22,779:INFO:Best Random Forest Model - Magnitude Prediction: MSE = 0.19013868261058542, R² = 0.3706230874199443
+2025-07-05 03:29:36,948:INFO:Best Gradient Boosting Model - Time Difference Prediction: MSE = 9527686739918.314, R² = 0.17284178824290863
+2025-07-05 03:29:38,282:INFO:Best XGBoost Model - Magnitude Prediction: MSE = 0.19166544507412095, R² = 0.3655693601491442
+2025-07-05 03:29:38,321:INFO:Predicted Next Earthquake Magnitude: 4.22631069790339
+2025-07-05 03:29:38,321:INFO:Predicted Time Difference to Next Earthquake (seconds): 657716.9462620585
+2025-07-05 03:29:38,323:INFO:Predicted Date and Time of Next Earthquake: 2024-06-03 05:57:09.041262058
+2025-07-05 03:32:26,258:INFO:Fetched 7506 earthquake records from USGS API.
+2025-07-05 03:32:26,302:INFO:Earthquake data saved to data\earthquake_data.csv
+2025-07-05 03:32:26,322:INFO:Advanced features extracted
+2025-07-05 03:32:26,330:INFO:Data preprocessing completed
+2025-07-05 03:32:30,284:INFO:Best Random Forest Model - Magnitude Prediction: MSE = 0.19140440983114076, R² = 0.37198335715527586
+2025-07-05 03:32:45,597:INFO:Best Gradient Boosting Model - Time Difference Prediction: MSE = 7274889994371.414, R² = -0.03504013592167321
+2025-07-05 03:32:46,996:INFO:Best XGBoost Model - Magnitude Prediction: MSE = 0.1848066161820242, R² = 0.39363136527251774
+2025-07-05 03:32:47,014:INFO:Predicted Next Earthquake Magnitude: 4.002347030643603
+2025-07-05 03:32:47,014:INFO:Predicted Time Difference to Next Earthquake (seconds): 430884.3261067986
+2025-07-05 03:32:47,014:INFO:Predicted Date and Time of Next Earthquake: 2025-05-17 23:11:33.925106799

@@ -29,7 +29,7 @@ Fetches earthquake data from the USGS API within the specified parameters.
     - max_longitude (float): Maximum longitude of the bounding box.
 """
 start_time = "1900-01-01"
-end_time = "2024-05-29"
+end_time = "2025-05-29"
 min_magnitude = 3.0
 min_latitude = 36.6237
 max_latitude = 40.2237
