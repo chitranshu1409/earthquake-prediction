@@ -20,7 +20,7 @@ earthquake-prediction-ml/
 1. Clone the repository:
 
 ```sh {"id":"01HZ4MWPV22SCECAA8RZ3TFA9H"}
-git clone https://github.com/oaslananka/EarthquakePredictionML.git
+git clone https://github.com/chitranshu1409/earthquake-prediction.git
 cd EarthquakePredictionML
 ```
 
@@ -56,6 +56,3 @@ The models are trained using features engineered from the raw earthquake data, s
 
 This project serves as an example of using machine learning techniques for predicting natural events. It demonstrates data fetching, preprocessing, feature engineering, model training, and prediction.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
